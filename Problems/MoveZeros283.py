@@ -22,3 +22,14 @@ class Solution:
 				index += 1
 
 
+
+
+
+
+# T: O(n)
+# iteration through the array once using a single loop
+# in each iteration: constant-time operations (comparisons and swapping)
+
+# S: O(1)
+# space is constant regardless the size of the array
+
