@@ -1,5 +1,9 @@
+"""
+Dot product of two sparse vectors.
 
-# Solving the problem using hash map & two pointers
+Solving the problem using hash map & two pointers
+"""
+
 
 class SparseVector:
 	def __init__(self, nums):
