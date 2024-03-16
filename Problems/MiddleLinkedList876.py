@@ -3,7 +3,7 @@ Given the head of a singly linked list, return the middle node of the linked lis
 
 If there are two middle nodes, return the second middle node.
 
-- Solving using a two-pointers (slow & fast) approach
+- Solving using a two-pointer (slow & fast) approach
   slow pointer moves one step at a time, fast pointer moves two steps at a time.
   faster pointer reaches the end of the list --> the slower pointer will be at the middle node.
 """
