@@ -33,3 +33,24 @@ class Solution:
 # S: O(1)
 # space is constant regardless the size of the array
 
+......................................................................................
+
+"""
+FollowUp: Could you minimize the total number of operations done?
+
+- By reducing the number of swap operations. Instead of swapping non-zero elements with zeros individually, 
+  we can keep track of the last non-zero index encountered so far. Then, we only need to overwri.
+  Then, we only need to overwrite the element at that index with the current non-zero element.
+"""
+
+class Solution:
+	def moveZeros(self, nums:List[int]):
+		last_index = 0
+
+		for i in range(len(nums)):
+			if nums[i] != 0:
+				nums[last_index] = nums[i]
+				if i != last_index:
+					nums[i] = 0
+				last_index += 1
+
