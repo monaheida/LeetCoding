@@ -1,11 +1,15 @@
 """
-Solve using using a sliding window approach combined with a hashmap to track character frequencies.
+Solved using using a sliding window approach combined with a hashmap to track character frequencies.
 A two-pointer approach + siliding window is also efficient.
 
 We need to define the initial window. Here, the initial window is the first "len(p)" characters of "s".
 
 We need to compare the frequency counts of characters in the initial window with the frequency counts of 
 characters in the pattern "p" to check if they're anagrams.
+
+
+i - len(p): Index of the character just before the window starts
+i - len(p) + 1: Actual starting index of the window
 
 """
 
