@@ -1,5 +1,5 @@
 """
-Solved using using a sliding window approach combined with a hashmap to track character frequencies.
+Solved using a sliding window approach combined with a hashmap to track character frequencies.
 A two-pointer approach + siliding window is also efficient.
 
 We need to define the initial window. Here, the initial window is the first "len(p)" characters of "s".
