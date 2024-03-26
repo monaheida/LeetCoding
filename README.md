@@ -19,5 +19,6 @@ This repo contains my solutions to various LeetCode problems implemented in Pyth
 | 141  | [Linked List Cycle](https://leetcode.com/problems/linked-list-cycle/description/) | Easy |
 | 1570 | [Dot Product of Two Sparse Vectors](https://leetcode.com/problems/dot-product-of-two-sparse-vectors/description/) | Medium |
 | 1485 | [Clone Binary Tree With Random Pointer](https://leetcode.com/problems/clone-binary-tree-with-random-pointer) | Medium |
-
+| 76   | [Minimum Window Substring](https://leetcode.com/problems/minimum-window-substring/description/) | Hard |
+|
 ~             
