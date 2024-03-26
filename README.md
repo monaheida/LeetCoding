@@ -1,3 +1,12 @@
+# LeetCode Solutions in Python
+
+This repo contains my solutions to various LeetCode problems implemented in Python. Each solution is accompanied by an explanation and, where applicable, time and space complexity analysis.
+
+
+
+
+
+
 | #    | Problem                                                 | Difficulty |
 |------|---------------------------------------------------------|------------|
 | 438  | [Find All Anagrams in a String](https://leetcode.com/problems/find-all-anagrams-in-a-string)  | Medium       |
