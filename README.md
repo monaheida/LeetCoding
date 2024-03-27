@@ -21,4 +21,4 @@ This repo contains my solutions to various LeetCode problems implemented in Pyth
 | 1485 | [Clone Binary Tree With Random Pointer](https://leetcode.com/problems/clone-binary-tree-with-random-pointer) | Medium |
 | 76   | [Minimum Window Substring](https://leetcode.com/problems/minimum-window-substring/description/) | Hard |
 | 1100 | [Find K-Length Substrings With No Repeated Characters](https://leetcode.com/problems/find-k-length-substrings-with-no-repeated-characters) | Medium |
-| 3023 | [Find Pattern in Infinie Stream ||](https://leetcode.com/problems/find-pattern-in-infinite-stream-i) | Hard |
+| 3023 | [Find Pattern in Infinie Stream](https://leetcode.com/problems/find-pattern-in-infinite-stream-i) | Hard |
