@@ -2,6 +2,16 @@
 Solving using sliding window approach (defining a window in this case, a substring of length K) 
 and moving it across the string "s" one character at a time to examine all possible substrings.
 
+Time Complexity: O(n)
+
+
+Space Complexity: O(1)
+
+The algorithm uses a Counter to keep track of the frequency of characters within the sliding window.
+The space required for this counter is O(26), as there are 26 lowercase English letters.
+This is constant space and can be considered O(1).
+The space required for other variables such as num_substrings, start_idx, and end_idx
+is also constant and can be considered O(1).
 
 """
 
