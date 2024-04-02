@@ -22,4 +22,6 @@ This repo contains my solutions to various LeetCode problems implemented in Pyth
 | 76   | [Minimum Window Substring](https://leetcode.com/problems/minimum-window-substring/description/) | Hard |
 | 1100 | [Find K-Length Substrings With No Repeated Characters](https://leetcode.com/problems/find-k-length-substrings-with-no-repeated-characters) | Medium |
 | 1265 | [Print Immutable Linked List in Reverse](https://leetcode.com/problems/print-immutable-linked-list-in-reverse/description/) | Hard |
+| 654  | [Maximum Binary Tree](https://leetcode.com/problems/maximum-binary-tree/description/) | Medium |
+| 1628 | [Design an Expression Tree With Evaluate Function](https://leetcode.com/problems/design-an-expression-tree-with-evaluate-function) | Medium | 
 | 
