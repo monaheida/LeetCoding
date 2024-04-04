@@ -24,4 +24,6 @@ This repo contains my solutions to various LeetCode problems implemented in Pyth
 | 1265 | [Print Immutable Linked List in Reverse](https://leetcode.com/problems/print-immutable-linked-list-in-reverse/description/) | Hard |
 | 654  | [Maximum Binary Tree](https://leetcode.com/problems/maximum-binary-tree/description/) | Medium |
 | 1628 | [Design an Expression Tree With Evaluate Function](https://leetcode.com/problems/design-an-expression-tree-with-evaluate-function) | Medium | 
-| 
+| 1021 | [Remove Outermost Parentheses](https://leetcode.com/problems/remove-outermost-parentheses/description/) | Easy |
+| 1008 | [Construct Binary Search Tree From Preorder Traversal](https://leetcode.com/problems/construct-binary-search-tree-from-preorder-traversal/description/) | Medium |
+| 2130 | [Maximum Twin Sum of a Linked List](https://leetcode.com/problems/maximum-twin-sum-of-a-linked-list/description/) | Medium | 
