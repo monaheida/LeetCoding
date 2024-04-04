@@ -17,14 +17,15 @@ class TreeNode:
 def buildExpressionTree(expression):
 	operators = {'+', '-', '*', '/'}
 	stack = []
-
-	if token not in operators:
-		stack.append(TreeNode(token))
-	else:
-		node = TreeNode(token)
-		node.right = stack.pop()
-		node.left = stack.pop()
-		stack.append(node)
+	
+	for token in expressin.split():
+		if token not in operators:
+			stack.append(TreeNode(token))
+		else:
+			node = TreeNode(token)
+			node.right = stack.pop()
+			node.left = stack.pop()
+			stack.append(node)
 
 	return stack.pop()
 
@@ -60,7 +61,7 @@ changes only occurs in the tree construction part.
 """
 
 class TreeNode:
-    def __init__(self, value):
+	def __init__(self, value):
 		self.value = value
 		self.left = None
 		self.right = None
