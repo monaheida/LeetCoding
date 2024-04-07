@@ -4,6 +4,10 @@ Solved using a two-pointer approach.
 "pairSum" method takes a singly-linked list as input, returns the maximum sum of pairs of nodes,
 where one node is from the first half of the list and the other node is from the second half of the list.
 
+If we don't reverse the second half, we would need to iterate through the first half from the beginning while
+simultaneously iterating through the second half from the end. This would require either storing the nodes in 
+the second half in a separate data structure (like an array) or using recursion to traverse the list backward.
+
 T: O(n)  traversing the list multiple times (to count the nodes, to find the middle, to reverse the second half,
 and finally to compute the sum), each taking O(n)
 
