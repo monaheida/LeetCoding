@@ -30,4 +30,7 @@ This repo contains my solutions to various LeetCode problems implemented in Pyth
 | 1038 | [Binary Search Tree to Greater Sum Tree](https://leetcode.com/problems/binary-search-tree-to-greater-sum-tree/description/) | Medium |
 | 1315 | [Sum of Nodes with Even-Valued Grandparent](https://leetcode.com/problems/sum-of-nodes-with-even-valued-grandparent/description/) | Medium |
 | 2265 | [Count Nodes Equal to Average of Subtree](https://leetcode.com/problems/count-nodes-equal-to-average-of-subtree/description/) | Medium |
+| 1302 | [Deepest Leaves Sum](https://leetcode.com/problems/deepest-leaves-sum/description/) | Medium |
+| 2236 | [Root Equals Sum of Children](https://leetcode.com/problems/root-equals-sum-of-children/description/) | Easy |
+| 1490 | [Clone N-ary Tree](https://leetcode.com/problems/clone-n-ary-tree) | Medium |
 | 
