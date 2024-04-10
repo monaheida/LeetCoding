@@ -33,4 +33,6 @@ This repo contains my solutions to various LeetCode problems implemented in Pyth
 | 1302 | [Deepest Leaves Sum](https://leetcode.com/problems/deepest-leaves-sum/description/) | Medium |
 | 2236 | [Root Equals Sum of Children](https://leetcode.com/problems/root-equals-sum-of-children/description/) | Easy |
 | 1490 | [Clone N-ary Tree](https://leetcode.com/problems/clone-n-ary-tree) | Medium |
+| 776  | [Split BST](https://leetcode.com/problems/split-bst) | Medium |
+| 1469 | [Find All The Lonely Nodes](https://leetcode.com/problems/find-all-the-lonely-nodes) | Medium |
 | 
