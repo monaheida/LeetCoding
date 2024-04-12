@@ -34,5 +34,8 @@ This repo contains my solutions to various LeetCode problems implemented in Pyth
 | 2236 | [Root Equals Sum of Children](https://leetcode.com/problems/root-equals-sum-of-children/description/) | Easy |
 | 1490 | [Clone N-ary Tree](https://leetcode.com/problems/clone-n-ary-tree) | Medium |
 | 776  | [Split BST](https://leetcode.com/problems/split-bst) | Medium |
-| 1469 | [Find All The Lonely Nodes](https://leetcode.com/problems/find-all-the-lonely-nodes) | Medium |
-| 
+| 1469 | [Find All The Lonely Nodes](https://leetcode.com/problems/find-all-the-lonely-nodes) | Easy |
+| 894  | [All Possible Full Binary Trees](https://leetcode.com/problems/all-possible-full-binary-trees) | Medium |
+| 1382 | [Balance a Binary Search Tree](https://leetcode.com/problems/balance-a-binary-search-tree) | Medium |
+| 1485 |
+| 1366 |
