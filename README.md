@@ -37,5 +37,6 @@ This repo contains my solutions to various LeetCode problems implemented in Pyth
 | 1469 | [Find All The Lonely Nodes](https://leetcode.com/problems/find-all-the-lonely-nodes) | Easy |
 | 894  | [All Possible Full Binary Trees](https://leetcode.com/problems/all-possible-full-binary-trees) | Medium |
 | 1382 | [Balance a Binary Search Tree](https://leetcode.com/problems/balance-a-binary-search-tree) | Medium |
-| 1485 |
-| 1366 |
+| 366  | [Find Leaves of Binary Tree](https://leetcode.com/problems/find-leaves-of-binary-tree) | Medium |
+| 1305 | [All Elements in Two Binary Search Trees](https://leetcode.com/problems/all-elements-in-two-binary-search-trees/description/) | Medium |
+|
