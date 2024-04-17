@@ -40,4 +40,6 @@ This repo contains my solutions to various LeetCode problems implemented in Pyth
 | 1305 | [All Elements in Two Binary Search Trees](https://leetcode.com/problems/all-elements-in-two-binary-search-trees/description/) | Medium |
 | 2974 | [Minimum Number Game](https://leetcode.com/problems/minimum-number-game/description/) | Easy |
 | 1464 | [Maximum Product of Two Elements in an Array](https://leetcode.com/problems/maximum-product-of-two-elements-in-an-array/description/) | Easy |
-| 2500 | [
+| 2500 | [Delete Greatest Value in Each Row](https://leetcode.com/problems/delete-greatest-value-in-each-row/description/) | Easy |
+| 1086 | [High Five](https://leetcode.com/problems/high-five) | Easy |
+| 1337 | [The K Weakest Rows in a Matrix](https://leetcode.com/problems/the-k-weakest-rows-in-a-matrix/description/) | Easy |
