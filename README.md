@@ -38,4 +38,6 @@ This repo contains my solutions to various LeetCode problems implemented in Pyth
 | 894  | [All Possible Full Binary Trees](https://leetcode.com/problems/all-possible-full-binary-trees) | Medium |
 | 1382 | [Balance a Binary Search Tree](https://leetcode.com/problems/balance-a-binary-search-tree) | Medium |
 | 1305 | [All Elements in Two Binary Search Trees](https://leetcode.com/problems/all-elements-in-two-binary-search-trees/description/) | Medium |
-|
+| 2974 | [Minimum Number Game](https://leetcode.com/problems/minimum-number-game/description/) | Easy |
+| 1464 | [Maximum Product of Two Elements in an Array](https://leetcode.com/problems/maximum-product-of-two-elements-in-an-array/description/) | Easy |
+| 2500 | [
