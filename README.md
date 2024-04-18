@@ -43,3 +43,9 @@ This repo contains my solutions to various LeetCode problems implemented in Pyth
 | 2500 | [Delete Greatest Value in Each Row](https://leetcode.com/problems/delete-greatest-value-in-each-row/description/) | Easy |
 | 1086 | [High Five](https://leetcode.com/problems/high-five) | Easy |
 | 1337 | [The K Weakest Rows in a Matrix](https://leetcode.com/problems/the-k-weakest-rows-in-a-matrix/description/) | Easy |
+| 451  | [Sort Characters By Frequency](https://leetcode.com/problems/sort-characters-by-frequency) | Medium |
+| 2357 | [Make Array Zero by Subtracting Equal Amounts] (https://leetcode.com/problems/make-array-zero-by-subtracting-equal-amounts) | Easy |
+| 759  | [Employee Free Time](https://leetcode.com/problems/employee-free-time) | Hard |
+| 2336 | [Smallest Number in Infinite Set](https://leetcode.com/problems/smallest-number-in-infinite-set) | Medium |
+| 2642 | [Design Graph With Shortest Path Calculator](https://leetcode.com/problems/design-graph-with-shortest-path-calculator) | Hard |
+|
