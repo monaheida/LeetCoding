@@ -47,4 +47,5 @@ This repo contains my solutions to various LeetCode problems implemented in Pyth
 | 2357 | [Make Array Zero by Subtracting Equal Amounts](https://leetcode.com/problems/make-array-zero-by-subtracting-equal-amounts) | Easy |
 | 2336 | [Smallest Number in Infinite Set](https://leetcode.com/problems/smallest-number-in-infinite-set) | Medium |
 | 2642 | [Design Graph With Shortest Path Calculator](https://leetcode.com/problems/design-graph-with-shortest-path-calculator) | Hard |
+| 797  | [All Paths From Source to Target](https://leetcode.com/problems/all-paths-from-source-to-target/description/) | Medium |
 |
