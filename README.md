@@ -48,4 +48,6 @@ This repo contains my solutions to various LeetCode problems implemented in Pyth
 | 2336 | [Smallest Number in Infinite Set](https://leetcode.com/problems/smallest-number-in-infinite-set) | Medium |
 | 2642 | [Design Graph With Shortest Path Calculator](https://leetcode.com/problems/design-graph-with-shortest-path-calculator) | Hard |
 | 797  | [All Paths From Source to Target](https://leetcode.com/problems/all-paths-from-source-to-target/description/) | Medium |
-|
+| 980  | [Unique Paths III](https://leetcode.com/problems/unique-paths-iii/description/) | Hard |
+| 1863 | [Sum of All Subset XOR Totals](https://leetcode.com/problems/sum-of-all-subset-xor-totals/description/) | Easy |
+| 
