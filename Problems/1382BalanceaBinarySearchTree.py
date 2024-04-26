@@ -1,4 +1,4 @@
-
+"""
 Solved using an in-order traversal method.
 - Traverse the left subtree recursively.
 - Visit the current node.
