@@ -50,4 +50,5 @@ This repo contains my solutions to various LeetCode problems implemented in Pyth
 | 797  | [All Paths From Source to Target](https://leetcode.com/problems/all-paths-from-source-to-target/description/) | Medium |
 | 980  | [Unique Paths III](https://leetcode.com/problems/unique-paths-iii/description/) | Hard |
 | 1863 | [Sum of All Subset XOR Totals](https://leetcode.com/problems/sum-of-all-subset-xor-totals/description/) | Easy |
+| 46   | [Permutations](https://leetcode.com/problems/permutations/description/) | Medium |
 | 
