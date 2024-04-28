@@ -1,6 +1,9 @@
 """
 Solved using backtracking
 
+By swapping elements at indices first and i, the code ensures that every possible permutation 
+of the elements in the nums array is generated during the backtracking process. 
+
 """
 
 from typing import List
