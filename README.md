@@ -51,4 +51,7 @@ This repo contains my solutions to various LeetCode problems implemented in Pyth
 | 980  | [Unique Paths III](https://leetcode.com/problems/unique-paths-iii/description/) | Hard |
 | 1863 | [Sum of All Subset XOR Totals](https://leetcode.com/problems/sum-of-all-subset-xor-totals/description/) | Easy |
 | 46   | [Permutations](https://leetcode.com/problems/permutations/description/) | Medium |
-| 
+| 78   | [Subsets](https://leetcode.com/problems/subsets/description/) | Medium |
+| 2044 | [Count Number of Maximum Bitwise-OR Subsets](https://leetcode.com/problems/count-number-of-maximum-bitwise-or-subsets/description/) | Medium |
+| 489  | [Robot Room Cleaner](https://leetcode.com/problems/robot-room-cleaner/description/) | Hard |
+ 
