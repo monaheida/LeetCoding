@@ -54,4 +54,6 @@ This repo contains my solutions to various LeetCode problems implemented in Pyth
 | 78   | [Subsets](https://leetcode.com/problems/subsets/description/) | Medium |
 | 2044 | [Count Number of Maximum Bitwise-OR Subsets](https://leetcode.com/problems/count-number-of-maximum-bitwise-or-subsets/description/) | Medium |
 | 489  | [Robot Room Cleaner](https://leetcode.com/problems/robot-room-cleaner/description/) | Hard |
- 
+| 2275 | [Largest Combination With Bitwise AND Greater Than Zero](https://leetcode.com/problems/largest-combination-with-bitwise-and-greater-than-zero/description/) | Medium |
+| 1079 | [Letter Tile Possibilities](https://leetcode.com/problems/letter-tile-possibilities/description/) | Medium |
+|
